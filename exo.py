@@ -2,10 +2,6 @@ import sys
 
 argument = sys.argv
 
-
-
-
-
 if len(argument) >2 or len(argument) == 1  :
     print("Tu ne me la mettras pas à l'envers")
     exit()
